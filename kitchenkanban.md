@@ -1,25 +1,6 @@
+theme: Fira, 4
+
 # Kitchen Kanban: A Fable
-
----
-
-## Who am I?
-
-@garyfleming
-
-github.com/garyfleming/kitchenkanban-talk
-
-^ Software & Agile Consultant, Software Developer for a long time.
-
----
-
-
-## CodeCraft
-
-- http://codecraftuk.org/
-- @CodeCraftUK
-- Third Thursday of the month, 7pm. Venue varies.
-
-![fit](ccv2.png)
 
 ---
 
@@ -67,23 +48,15 @@ I'm going to tell you a fable, so there's two things you should know about fable
 
 ## Animals
 
-^ Okay, if the lack of a software focus in fables was the first thing I wanted you to know, the second thing is that they almost all feature animals as the main characters. So, I'd like to introduce you to our heroes 
+^ Okay, if the lack of a software focus in fables was the first thing I wanted you to know, the second thing is that they almost all feature animals as the main characters. So, I'd like to introduce you to our heroes
 
 ---
 
-## Koda
+## Koda + Oscar
 
 ^ The dog.
 
-![inline](barky.png)
-
----
-
-## Oscar
-
-^ The cat.
-
-![inline](cat.png)
+![inline](barky.png)![inline](cat.png)
 
 ---
 
@@ -182,10 +155,6 @@ Everything got a lot better.
 - Visualise
 - Inspect
 - Adapt
-
----
-
-# Thank You
 
 ---
 
