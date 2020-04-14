@@ -256,4 +256,4 @@ THey could use diferrent colour cards
 
 ![inline](images/cat.png)
 
-## In memory, Oscar 2000-2018
+## In memory, Oscar 2001-2019
