@@ -226,7 +226,9 @@ You could see it as representing capabilities.
 * ...
 
 ^ They could keep changing it and keep modifying it to suit their unique needs.
-THey could use diferrent colour cards
+They could use different coloured cards to indicate healthiness: red being bad, green good, yellow in the middle
+Different colour cards for style of food. For spiciness etc.
+Stickies for "X and ... meals". Baked potato and... haggis, cheese, beans etc
 
 ---
 
